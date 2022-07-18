@@ -1,0 +1,26 @@
+ files_out.out - OUTPUT FILES WRITTEN
+ HRU                       hru_wb_mon.txt
+ HRU                       hru_wb_yr.txt
+ HRU                       hru_wb_aa.txt
+ HRU                       hru_nb_yr.txt
+ HRU                       hru_nb_aa.txt
+ HRU                       hru_ls_day.txt
+ HRU                       hru_ls_mon.txt
+ HRU                       hru_ls_yr.txt
+ HRU                       hru_ls_aa.txt
+ BASIN                     basin_wb_day.txt
+ BASIN                     basin_wb_aa.txt
+ BASIN                     basin_nb_aa.txt
+ BASIN                     basin_ls_day.txt
+ BASIN                     basin_ls_aa.txt
+ BASIN                     basin_pw_aa.txt
+ CROP                      crop_yld_aa.txt
+ CHANNEL                   channel_day.txt
+ CHANNEL                   channel_mon.txt
+ CHANNEL                   channel_yr.txt
+ CHANNEL                   channel_aa.txt
+ BASIN_CROP_YLD            basin_crop_yld_yr.txt
+ BASIN_CROP_YLD            basin_crop_yld_aa.txt
+ RES                       reservoir_day.txt
+ RES_WET                   wetland_day.txt
+ BASIN_CHANNEL             basin_cha_aa.txt

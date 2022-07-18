@@ -1,0 +1,6 @@
+filterstrip.str: written by SWAT+ editor v1.2.3 on 2020-11-02 07:04
+name                  flag       fld_vfs       con_vfs         cha_q  description
+field_border             0       0.10000       0.00300       0.20000  Field_border
+high_engineered          0       0.10000       0.00100       0.05000  Highly_engineered_low_channelized
+FS_existing              1      51.30000       0.50000       0.00000  
+FS_new                   1     153.90000       0.50000       0.00000  
