@@ -1,5 +1,9 @@
 tmp.cli : temperature file names
 filename
+39.7579_-89.4458_TMP.tmp
+39.7727_-89.3167_TMP.tmp
+39.7748_-89.0530_TMP.tmp
+39.7832_-88.9651_TMP.tmp
 39.7917_-88.8196_TMP.tmp
 39.8233_-89.1189_TMP.tmp
 39.8275_-89.4018_TMP.tmp
@@ -29,7 +33,3 @@ filename
 40.4595_-88.7179_TMP.tmp
 40.4720_-88.3032_TMP.tmp
 40.5368_-88.4982_TMP.tmp
-39.7579_-89.4458_TMP.tmp
-39.7727_-89.3167_TMP.tmp
-39.7748_-89.0530_TMP.tmp
-39.7832_-88.9651_TMP.tmp

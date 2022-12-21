@@ -1,5 +1,9 @@
 pcp.cli : precipitation file names
 filename
+39.7579_-89.4458_PCP.pcp
+39.7727_-89.3167_PCP.pcp
+39.7748_-89.0530_PCP.pcp
+39.7832_-88.9651_PCP.pcp
 39.7917_-88.8196_PCP.pcp
 39.8233_-89.1189_PCP.pcp
 39.8275_-89.4018_PCP.pcp
@@ -29,7 +33,3 @@ filename
 40.4595_-88.7179_PCP.pcp
 40.4720_-88.3032_PCP.pcp
 40.5368_-88.4982_PCP.pcp
-39.7579_-89.4458_PCP.pcp
-39.7727_-89.3167_PCP.pcp
-39.7748_-89.0530_PCP.pcp
-39.7832_-88.9651_PCP.pcp
