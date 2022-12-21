@@ -27,8 +27,8 @@
       real :: anaer_minpa = 14. ! mg/kg or g/Mg; - updated IC 08/10, KDW
       real :: anaer_minps = 100. ! mg/kg or g/Mg; - updated IC 08/10, KDW
       real :: anaer_disp = 0.2 ! mg/L  - was 3? KDW 08/10
-      real :: ext_orgp = 5. ! mg/kg or g/Mg
-      real :: ext_minpa = 10. ! mg/kg or g/Mg; - updated IC 08/10, KDW
+      real :: ext_orgp = 5. ! mg/kg or g/Mg 
+      real :: ext_minpa = 10. ! mg/kg or g/Mg; - updated IC 08/10, KDW 
       real :: ext_minps = 70. ! mg/kg or g/Mg; - updated IC 08/10, KDW
       real :: ext_disp = 0.3 ! mg/L  - was 3? KDW 08/10
       end type water_body_bed

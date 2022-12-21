@@ -129,9 +129,9 @@
           real :: anaer_minpa = 100. ! mg/kg or g/Mg, updated IC 08/10, KDW
           real :: anaer_minps = 200. ! mg/kg or g/Mg, updated IC 08/10, KDW
           real :: anaer_disp = 0.3 ! mg/L
-          real :: ext_orgp = 5. ! mg/kg or g/Mg
+          real :: ext_orgp = 5. ! mg/kg or g/Mg 
           real :: ext_minpa = 10. ! mg/kg or g/Mg, updated IC 08/10, KDW
-          real :: ext_minps = 70. ! mg/kg or g/Mg, updated IC 08/10, KDW
+          real :: ext_minps = 70. ! mg/kg or g/Mg, updated IC 08/10, KDW 
           real :: ext_disp = 0.3 ! mg/L
           !! Added by KDW
       end type channel

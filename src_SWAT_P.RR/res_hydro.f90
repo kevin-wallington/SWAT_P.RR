@@ -83,7 +83,7 @@
               case ("/")
                 b_lo = (evol_m3 - pvol_m3) / d_tbl%cond(ic)%lim_const
               end select
-              ht2%flo = (wbody%flo - b_lo) / dtbl_res(id)%act(iac)%const + dtbl_res(id)%act(iac)%const2 / 100.
+              ht2%flo = (wbody%flo - b_lo) / dtbl_res(id)%act(iac)%const + dtbl_res(id)%act(iac)%const2 * pvol_m3 / 100. ! KDW 08/11/22
               
             case ("weir")
               ht2%flo = res_weir(ihyd)%c * res_weir(ihyd)%k * res_weir(ihyd)%w * (res_h ** 1.5)

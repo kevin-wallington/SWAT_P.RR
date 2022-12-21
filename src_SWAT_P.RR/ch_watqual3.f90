@@ -559,7 +559,7 @@
         factk = 0.
         alg_no3_m = alg_m1 * (1. - f1) * ch_nut(jnut)%ai1 !moved down from line 349, -alg_m changed to +alg_m1 by KDW
         !factm = -bc2_m+alg_m_no3 !replaced by below by KDW
-        factm = -bc2_m - alg_m_no3 !change sign for alg_m_no3 - added by KDW
+        factm = -bc2_m - alg_no3_m !change sign for alg_m_no3 and change to alg_no3_m - added by KDW
         
         ch(jrch)%nitraten = wq_semianalyt (tday, rt_delt, factm,0., no3con, nitratin)
         if (ch(jrch)%nitraten < 1.e-6) ch(jrch)%nitraten = 0.
